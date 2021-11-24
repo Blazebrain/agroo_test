@@ -9,7 +9,7 @@ class ReusableButton extends StatelessWidget {
   final void Function() onPressed;
   final String? label;
   final Color? labelColor;
-  final TextStyle? labelTextStyle; //TODO: added this
+  final TextStyle? labelTextStyle;
   final Color? backgroundColor;
   final double? height;
   final double? width;

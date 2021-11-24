@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:agroo_test/ui/shared/colors.dart';
 import 'package:agroo_test/ui/shared/textstyles.dart';
 import 'package:flutter/material.dart';
